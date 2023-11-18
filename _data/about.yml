@@ -1,19 +1,16 @@
 theme: default
 header:
-  name: Chad Baldwin
+  name: Selvakumaran Krishnan
   suffix: MCSA
   display_contact_info: true
-  current_title: Senior Database Developer
+  current_title: Full Stack Developer
   intro: >
-    Motivated and versatile software and database developer, MCSA certified in Database
-    Development. Proficient in schema design, data normalization techniques and query/index tuning.
-    Always looking for new challenges and new technologies to learn. Experienced with the software
-    development life cycle (SDLC) utilizing various project management methodologies including
-    Agile, Scrum and Kanban. Efficient working both independently and in a team environment.
+    Motivated and versatile software and full-stack developer. Proficient in web design, data architecture techniques.
+    Always looking for new technologies and new challenges to learn. Experienced with full-stack web development various project management methodologies including Agile, Scrum and Kanban. Efficient working both independently and in a team environment.
 contact:
-  #address: 123 Main St, Test, CA 91234
-  #phone: (123) 456-7890
-  email: resume@chadbaldwin.net
+  #address: Chennai, Tamilnadu, India
+  #phone: N/A
+  email: N/A
 sections:
   experience:   true
   education:    true
@@ -25,11 +22,8 @@ sections:
   links:        true
   social_links: false
 social:
-  Website:    http://chadbaldwin.net
-  GitHub:     https://github.com/chadbaldwin
-  Twitter:    https://twitter.com/chad_baldwin
-  #Dribbble:  https://dribbble.com/chadbaldwin
-  #FaceBook:  https://facebook.com/iamchadbaldwin
-  LinkedIn:   https://linkedin.com/in/chadbaldwin
-  #Instagram: https://instagram.com/chad_baldwin
-  #Medium:    https://medium.com/@chad-baldwin
+  Website:    https://www.wikimint.com
+  GitHub:     https://github.com/wikimint
+  Twitter:    https://twitter.com/wikimint
+  LinkedIn:   https://linkedin.com/in/selvakumaran-krishnan
+  Medium:    https://medium.com/@selvakumarankrishnan
