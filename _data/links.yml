@@ -1,23 +1,39 @@
 - name: LinkedIn
-  url: https://linkedin.com/in/selvakumaran-krishnan
-  label: Selvakumaran Krishnan
+url: https://linkedin.com/in/selvakumaran-krishnan
+label: Selvakumaran Krishnan
 
 - name: GitHub
-  url: https://github.com/wikimint
-  label: Wikimint Developer
+url: https://github.com/wikimint
+label: Wikimint Developer
 
 - name: StackOverflow
-  url: https://stackoverflow.com/users/19612987/selvakumaran-krishnan
-  label: Selvakumaran Krishnan
+url: https://stackoverflow.com/users/19612987/selvakumaran-krishnan
+label: Selvakumaran Krishnan
 
-  - name: Blogger Profile
-  url: https://www.blogger.com/profile/05123685904005963930
-  label: Selvakumaran Krishnan
+- name: Blogger Profile
+url: https://www.blogger.com/profile/05123685904005963930
+label: Selvakumaran Krishnan
 
-    - name: Blogspot
-  url: https://top-list-reads.blogspot.com/
-  label: Listical Reads
+- name: Blogspot
+url: https://top-list-reads.blogspot.com/
+label: Listical Reads
 
-    - name: Google Sites
-  url: https://sites.google.com/view/vibe-reads
-  label: Vibe Reads
+- name: Google Sites
+url: https://sites.google.com/view/vibe-reads
+label: Vibe Reads
+
+- name: Wikimint
+url: https://www.wikimint.com
+label: Wikimint Magazine
+
+- name: Substack
+url: https://ourmaster.substack.com
+label: Ourmaster Insights
+
+- name: Mataroa
+url: https://ourmaster.mataroa.blog
+label: Ourmater at Mataroa
+
+- name: Medium
+url: https://medium.com/@selvakumarankrishnan
+label: Selvakumaran Krishnan
