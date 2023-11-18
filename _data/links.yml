@@ -1,11 +1,23 @@
 - name: LinkedIn
   url: https://linkedin.com/in/selvakumaran-krishnan
-  label: LinkedIn
+  label: Selvakumaran Krishnan
 
 - name: GitHub
   url: https://github.com/wikimint
-  label: GitHub
+  label: Wikimint Developer
 
 - name: StackOverflow
-  url: https://stackoverflow.com/users/3474677
-  label: chad-baldwin
+  url: https://stackoverflow.com/users/19612987/selvakumaran-krishnan
+  label: Selvakumaran Krishnan
+
+  - name: Blogger Profile
+  url: https://www.blogger.com/profile/05123685904005963930
+  label: Selvakumaran Krishnan
+
+    - name: Blogspot
+  url: https://top-list-reads.blogspot.com/
+  label: Listical Reads
+
+    - name: Google Sites
+  url: https://sites.google.com/view/vibe-reads
+  label: Vibe Reads
