@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wikimint.github.io/ourmaster/sitemaps/sitemap.xml
